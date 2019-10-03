@@ -1,0 +1,1 @@
+To build the OS, open CMD or Terminal and navigate to where the root SnakeOS is located and then enter the command: make
